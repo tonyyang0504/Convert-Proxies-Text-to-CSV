@@ -1,0 +1,7 @@
+pandas
+plotly
+matplotlib
+cufflinks
+openpyxl
+streamlit
+schedule
